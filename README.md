@@ -12,11 +12,12 @@ I'm Shivamani, a passionate Computer Science Graduate with a strong background i
 ## 🔭 Major Projects
 - **[BlogCraft](https://github.com/ShivamaniG/BlogCraft)**: A full-stack MERN blog project.
 
+- **[Resume Boost](https://github.com/yourusername/test)**: Platform that helps to buid your resume towards the job requirements. 
+
 - **[Carrerly](https://github.com/ShivamaniG/Carrerly)**: A career recommendation platform based on skills.
 
 - **[Zomato API](https://github.com/ShivamaniG/Zomato-API)**: Mini Zomato clone implementing restaurant searching,filtering and UI.
 
-- **[Stay Room](https://github.com/yourusername/Stay-Room)**: A MERN stack hotel reservation platform.
 
 ## 🛠 Skills
 <div style="display: flex; align-items: center;">
