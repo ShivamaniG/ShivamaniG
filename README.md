@@ -4,7 +4,6 @@
 
 # Hi there! 👋
 
-## 🚀 About Me
 I'm Shivamani, a passionate Computer Science Graduate with a strong background in building scalable applications and solving complex problems. I'm always seeking to learn new technologies and deliver innovative solutions.
 
 ## 📊 GitHub Stats
