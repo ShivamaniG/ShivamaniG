@@ -1,10 +1,14 @@
 # Hi there, I'm Shivamani! 👋
 
+<p>
+  <img src="https://github.com/ShivamaniG/ShivamaniG/blob/6f66729e5824107d3cbc1e2e1848ec63556b9c67/Github%20baner.png" alt="Banner">
+</p>
+
 ## 🚀 About Me
 I'm Shivamani, a passionate Computer Science Graduate with a strong background in building scalable applications and solving complex problems. I'm always seeking to learn new technologies and deliver innovative solutions.
 
 ## 📊 GitHub Stats
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivamaniG&show_icons=true&theme=radical" alt="Shivamani's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamaniG&layout=compact&theme=radical" alt="Top Langs" style="margin-left: 20px;" />
 </div>
