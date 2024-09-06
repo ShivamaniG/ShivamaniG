@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm Shivamani, a passionate Computer Science Graduate with a strong background in building scalable applications and solving complex problems. I'm always seeking to learn new technologies and deliver innovative solutions.
+I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool with a strong background in building scalable applications and solving problems. I am always eager to learn new technologies and deliver innovative solutions.
 
 ## 📊 GitHub Stats
 <div style="display: flex; align-items: center; justify-content: center;">
