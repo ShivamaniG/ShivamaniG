@@ -2,7 +2,7 @@
   <img src="https://github.com/ShivamaniG/ShivamaniG/blob/6f66729e5824107d3cbc1e2e1848ec63556b9c67/Github%20baner.png" alt="Banner">
 </p>
 
-# Hi there! 👋
+# Hi there!👋
 
 I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool with a strong background in building scalable applications and solving problems. I am always eager to learn new technologies and deliver innovative solutions.
 
