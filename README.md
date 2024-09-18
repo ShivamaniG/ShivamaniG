@@ -15,13 +15,13 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 ## 🔭 Major Projects
 - **[BlogCraft](https://github.com/ShivamaniG/BlogCraft)**: A full-stack MERN blog project.
 
-- **[Resume Boost](https://github.com/yourusername/test)**: Platform that helps to buid your resume towards the job requirements. 
+- **[Resume Boost](https://github.com/yourusername/test)**: Platform that helps to build your resume towards the job requirements. 
 
 - **[Carrerly](https://github.com/ShivamaniG/Carrerly)**: Career recommendation platform based on skills.
   
 - **[RAG Chatbot](https://github.com/ShivamaniG/RAG-ChatBot)**: Retrieval-Augmented Generation chatbot
 
-- **[Zomato API](https://github.com/ShivamaniG/Zomato-API)**: Mini Zomato clone implementing restaurant searching,filtering and UI.
+- **[Zomato API](https://github.com/ShivamaniG/Zomato-API)**: Mini Zomato clone implementing restaurant searching, filtering and UI.
 
 - **[Image-Entity-Extraction](https://github.com/ShivamaniG/Image-Entity-Extraction)**: A ML model that extracts entity values from images.
 
