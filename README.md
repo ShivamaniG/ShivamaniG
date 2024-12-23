@@ -25,6 +25,8 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 
 - **[Image-Entity-Extraction](https://github.com/ShivamaniG/Image-Entity-Extraction)**: A ML model that extracts entity values from images.
 
+- **[Sattelite Imagery for Canal Identification](https://github.com/ShivamaniG/prj)**: Final Year Project working on effecient ways for Path finding for Canal identification using Image Segmentation.
+
 
 
 
