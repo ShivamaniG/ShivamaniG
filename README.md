@@ -27,6 +27,9 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 
 - **[Sattelite Imagery for Canal Identification](https://github.com/ShivamaniG/prj)**: Final Year Project working on effecient ways for Path finding for Canal identification using Image Segmentation.
 
+- **[AI - Habit Tracker Motivator](https://github.com/ShivamaniG/AI-Habit-Tracker)**: A MERN Stack Habit Tracker plus AI Habit Suggestions using ML algorithms.
+
+
 
 
 
