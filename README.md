@@ -15,22 +15,25 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 ## 🔭 Major Projects
 - **[BlogCraft](https://github.com/ShivamaniG/BlogCraft)**: A full-stack MERN blog project.
 
-- **[Resume Boost](https://github.com/yourusername/test)**: Platform that helps to build your resume towards the job requirements. 
+- **[Resume Boost](https://github.com/ShivamaniG/test)**: Platform that helps to build your resume towards the job requirements. 
 
 - **[Carrerly](https://github.com/ShivamaniG/Carrerly)**: Career recommendation platform based on skills.
   
-- **[RAG Chatbot](https://github.com/ShivamaniG/RAG-ChatBot)**: Retrieval-Augmented Generation chatbot
-
-- **[Zomato API](https://github.com/ShivamaniG/Zomato-API)**: Mini Zomato clone implementing restaurant searching, filtering and UI.
+- **[RAG Chatbot](https://github.com/ShivamaniG/RAG-ChatBot)**: Retrieval-Augmented Generation chatbot.
 
 - **[Image-Entity-Extraction](https://github.com/ShivamaniG/Image-Entity-Extraction)**: A ML model that extracts entity values from images.
 
 - **[Sattelite Imagery for Canal Identification](https://github.com/ShivamaniG/prj)**: Final Year Project working on effecient ways for Path finding for Canal identification using Image Segmentation.
 
-- **[AI - Habit Tracker Motivator](https://github.com/ShivamaniG/AI-Habit-Tracker)**: A MERN Stack Habit Tracker plus AI Habit Suggestions using ML algorithms.
-
-
-
+## ⚡ Mini Projects  
+- 🔹 **[Leetcode Tracker](https://github.com/ShivamaniG/leetcode_tracker)**: Google Auth + Web scraping to fetch LeetCode details.  
+- 🔹 **[Leetcode API](https://github.com/ShivamaniG/leetcode_api)**: Implemented web scraping to fetch required details from a LeetCode profile.  
+- 🔹 **[Portfolio Website](https://github.com/ShivamaniG/portfolio)**: My personal portfolio showcasing my projects & skills.  
+- 🔹 **[AI - Habit Tracker & Motivator](https://github.com/ShivamaniG/AI-Habit-Tracker)**: AI-powered habit tracker with motivational insights.  
+- 🔹 **[Weather App](https://github.com/ShivamaniG/weather)**: A simple weather forecast application.  
+- 🔹 **[Kanban Board](https://github.com/ShivamaniG/Kanban-Board)**: Task management board inspired by Trello.  
+- 🔹 **[Vehicle Maintenance Prediction](https://github.com/ShivamaniG/Vehicle-Maintenance-AI)**: AI model using SHAP & LIME for predictive maintenance.  
+- 🔹 **[Zomato API](https://github.com/ShivamaniG/Zomato-API)**: Mini Zomato clone implementing restaurant searching, filtering and UI
 
 
 ## 🛠 Skills
