@@ -13,19 +13,28 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 </div>
 
 ## 🔭 Major Projects
+
+- **[InsightBot](https://github.com/ShivamaniG/InsightBot)**: AI is an intelligent assistant that uses RAG and LLM to let users upload documents and chat to extract insights and get document-specific answers.
+
+- **[Dish Nutrition Analyzer](https://github.com/ShivamaniG/Vyb-AI-Assignment)**: A Flask-based pipeline with LLM extracts ingredients from a dish name, maps them to a nutrition database, and returns total and scaled nutrition facts.
+
+- **[TradeLorry](https://github.com/ShivamaniG/Kuteeram_Assign_Backend_2)**: A backend project where buyers bid on products, sellers list products, and lorry drivers accept orders for delivery.
+
 - **[BlogCraft](https://github.com/ShivamaniG/BlogCraft)**: A full-stack MERN blog project.
 
-- **[Resume Boost](https://github.com/ShivamaniG/test)**: Platform that helps to build your resume towards the job requirements. 
+- **[Resume Boost](https://github.com/ShivamaniG/test)**: Platform that helps build resumes aligned with job requirements.
 
-- **[Carrerly](https://github.com/ShivamaniG/Carrerly)**: Career recommendation platform based on skills.
-  
-- **[RAG Chatbot](https://github.com/ShivamaniG/RAG-ChatBot)**: Retrieval-Augmented Generation chatbot.
+- **[Carrerly](https://github.com/ShivamaniG/Carrerly)**: Career recommendation platform based on user skills.
 
-- **[Image-Entity-Extraction](https://github.com/ShivamaniG/Image-Entity-Extraction)**: A ML model that extracts entity values from images.
+- **[RAG Chatbot](https://github.com/ShivamaniG/RAG-ChatBot)**: A Retrieval-Augmented Generation-based chatbot for intelligent Q&A.
 
-- **[Sattelite Imagery for Canal Identification](https://github.com/ShivamaniG/prj)**: Final Year Project working on effecient ways for Path finding for Canal identification using Image Segmentation.
+- **[Image-Entity-Extraction](https://github.com/ShivamaniG/Image-Entity-Extraction)**: A machine learning model that extracts entity values from images.
+
+- **[Satellite Imagery for Canal Identification](https://github.com/ShivamaniG/prj)**: Final year project using image segmentation for efficient canal path identification from satellite imagery.
 
 ## ⚡ Mini Projects  
+- 🔹 **[Service Booking Backend API](https://github.com/ShivamaniG/Kuteeram_Assign_backend)**:Backend API for a service booking system.
+- 🔹 **[Portfolio](https://github.com/ShivamaniG/react-portfolio)**: A personal portfolio website built using React.
 - 🔹 **[Leetcode Tracker](https://github.com/ShivamaniG/leetcode_tracker)**: Google Auth + Web scraping to fetch LeetCode details.  
 - 🔹 **[Leetcode API](https://github.com/ShivamaniG/leetcode_api)**: Implemented web scraping to fetch required details from a LeetCode profile.  
 - 🔹 **[Portfolio Website](https://github.com/ShivamaniG/portfolio)**: My personal portfolio showcasing my projects & skills.  
