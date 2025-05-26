@@ -29,11 +29,13 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 - **[RAG Chatbot](https://github.com/ShivamaniG/RAG-ChatBot)**: A Retrieval-Augmented Generation-based chatbot for intelligent Q&A.
 
 - **[Image-Entity-Extraction](https://github.com/ShivamaniG/Image-Entity-Extraction)**: A machine learning model that extracts entity values from images.
+  
+- **[Vehicle Maintenance Prediction](https://github.com/ShivamaniG/Vehicle-Maintenance-AI)**: AI model using SHAP & LIME for predictive maintenance.  
 
 - **[Satellite Imagery for Canal Identification](https://github.com/ShivamaniG/prj)**: Final year project using image segmentation for efficient canal path identification from satellite imagery.
 
 ## ⚡ Mini Projects  
-- 🔹 **[Service Booking Backend API](https://github.com/ShivamaniG/Kuteeram_Assign_backend)**:Backend API for a service booking system.
+- 🔹 **[Service Booking Backend API](https://github.com/ShivamaniG/Kuteeram_Assign_backend)**: Backend API for a service booking system.
 - 🔹 **[Portfolio](https://github.com/ShivamaniG/react-portfolio)**: A personal portfolio website built using React.
 - 🔹 **[Leetcode Tracker](https://github.com/ShivamaniG/leetcode_tracker)**: Google Auth + Web scraping to fetch LeetCode details.  
 - 🔹 **[Leetcode API](https://github.com/ShivamaniG/leetcode_api)**: Implemented web scraping to fetch required details from a LeetCode profile.  
@@ -41,7 +43,6 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 - 🔹 **[AI - Habit Tracker & Motivator](https://github.com/ShivamaniG/AI-Habit-Tracker)**: AI-powered habit tracker with motivational insights.  
 - 🔹 **[Weather App](https://github.com/ShivamaniG/weather)**: A simple weather forecast application.  
 - 🔹 **[Kanban Board](https://github.com/ShivamaniG/Kanban-Board)**: Task management board inspired by Trello.  
-- 🔹 **[Vehicle Maintenance Prediction](https://github.com/ShivamaniG/Vehicle-Maintenance-AI)**: AI model using SHAP & LIME for predictive maintenance.  
 - 🔹 **[Zomato API](https://github.com/ShivamaniG/Zomato-API)**: Mini Zomato clone implementing restaurant searching, filtering and UI
 
 
