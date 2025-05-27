@@ -14,7 +14,7 @@ I'm Shivamani, a passionate Computer Science undergraduate at IIITDM Kurnool wit
 
 ## 🔭 Major Projects
 
-- **[InsightBot]((https://github.com/ShivamaniG/InsightBot-AI))**: AI is an intelligent assistant that uses RAG and LLM to let users upload documents and chat to extract insights and get document-specific answers.
+- **[InsightBot](https://github.com/ShivamaniG/InsightBot-AI)**: AI is an intelligent assistant that uses RAG and LLM to let users upload documents and chat to extract insights and get document-specific answers.
 
 - **[Dish Nutrition Analyzer](https://github.com/ShivamaniG/Vyb-AI-Assignment)**: A Flask-based pipeline with LLM extracts ingredients from a dish name, maps them to a nutrition database, and returns total and scaled nutrition facts.
 
