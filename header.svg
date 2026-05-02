@@ -1,0 +1,24 @@
+<svg width="100%" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Shivamani Gangarapu — AI Engineer at Antz AI</title>
+  <desc>Profile banner for Shivamani Gangarapu</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7f5af0"/>
+      <stop offset="100%" stop-color="#2cb67d"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <g opacity="0.07" fill="#ffffff">
+    <circle cx="60" cy="40" r="1.5"/><circle cx="120" cy="40" r="1.5"/><circle cx="180" cy="40" r="1.5"/><circle cx="240" cy="40" r="1.5"/><circle cx="300" cy="40" r="1.5"/><circle cx="360" cy="40" r="1.5"/><circle cx="420" cy="40" r="1.5"/><circle cx="480" cy="40" r="1.5"/><circle cx="540" cy="40" r="1.5"/><circle cx="600" cy="40" r="1.5"/><circle cx="660" cy="40" r="1.5"/><circle cx="720" cy="40" r="1.5"/><circle cx="780" cy="40" r="1.5"/><circle cx="840" cy="40" r="1.5"/>
+    <circle cx="60" cy="90" r="1.5"/><circle cx="120" cy="90" r="1.5"/><circle cx="180" cy="90" r="1.5"/><circle cx="240" cy="90" r="1.5"/><circle cx="300" cy="90" r="1.5"/><circle cx="360" cy="90" r="1.5"/><circle cx="420" cy="90" r="1.5"/><circle cx="480" cy="90" r="1.5"/><circle cx="540" cy="90" r="1.5"/><circle cx="600" cy="90" r="1.5"/><circle cx="660" cy="90" r="1.5"/><circle cx="720" cy="90" r="1.5"/><circle cx="780" cy="90" r="1.5"/><circle cx="840" cy="90" r="1.5"/>
+    <circle cx="60" cy="140" r="1.5"/><circle cx="120" cy="140" r="1.5"/><circle cx="180" cy="140" r="1.5"/><circle cx="240" cy="140" r="1.5"/><circle cx="300" cy="140" r="1.5"/><circle cx="360" cy="140" r="1.5"/><circle cx="420" cy="140" r="1.5"/><circle cx="480" cy="140" r="1.5"/><circle cx="540" cy="140" r="1.5"/><circle cx="600" cy="140" r="1.5"/><circle cx="660" cy="140" r="1.5"/><circle cx="720" cy="140" r="1.5"/><circle cx="780" cy="140" r="1.5"/><circle cx="840" cy="140" r="1.5"/>
+  </g>
+  <rect x="0" y="172" width="900" height="3" fill="url(#accent)" rx="1.5"/>
+  <text x="450" y="88" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff" letter-spacing="1">Shivamani Gangarapu</text>
+  <text x="450" y="128" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" fill="#a8a8c0" letter-spacing="2">AI ENGINEER AT ANTZ AI  ·  CS GRADUATE 2025  ·  IIITDM KURNOOL</text>
+</svg>
