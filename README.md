@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivamani%20Gangarapu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivamani%20Gangarapu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%7C%20AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn&descColor=ffffff" />
 
 </div>
 
@@ -25,8 +25,13 @@ I'm a **Computer Science undergraduate at IIITDM Kurnool** who loves building in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamaniG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamaniG&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=ShivamaniG&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamaniG&theme=tokyonight" height="160" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivamaniG&theme=tokyonight" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShivamaniG&theme=tokyonight&utcOffset=5.5" height="160" />
 
 </div>
 
@@ -43,16 +48,12 @@ I'm a **Computer Science undergraduate at IIITDM Kurnool** who loves building in
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**a2a-mcp-orchestrator**](https://github.com/ShivamaniG/a2a-mcp-orchestrator) | Python orchestrator for multi-agent workflows on Google's Agent2Agent (A2A) protocol with MCP-style tool integration | Python · A2A · MCP |
 | [**PolicySim-Backend**](https://github.com/ShivamaniG/PolicySim-Backend) | Multi-agent AI pipeline for urban policy analysis, socio-economic vulnerability scoring & geospatial risk mapping | Python · LLM · GIS |
 | [**ipl-2026-live-predictor**](https://github.com/ShivamaniG/ipl-2026-live-predictor) | Production-ready live IPL match prediction system using 17 years of ball-by-ball data with real-time forecasting | Python · ML · Cricket |
 | [**agent-connect-kit**](https://github.com/ShivamaniG/agent-connect-kit) | Open-source connector gateway for AI agents and copilots with GitHub, Teams, MCP & SDK support | Python · SDK |
 | [**support-triage-agent**](https://github.com/ShivamaniG/support-triage-agent) | Multi-domain support triage system using RAG, rule-based safety gating & structured LLM outputs | Python · RAG · LLM |
 | [**hydro-net**](https://github.com/ShivamaniG/hydro-net) | Deep-learning pipeline for optimal canal placement from satellite imagery — segmentation + geospatial routing | Python · CV · DL |
-| [**anp-demo**](https://github.com/ShivamaniG/anp-demo) | Peer-to-peer Python agents discovering each other via Agent Network Protocol with JSON-RPC messaging | Python · ANP |
-| [**POC-AI-UI-Navigator**](https://github.com/ShivamaniG/POC-AI-UI-Navigator) | Multimodal browser automation POC — Chrome extension + FastAPI + Gemini 2.0 Flash for real-time page actions | JS · Python · Gemini |
-| [**mlflow-agent-wrapper**](https://github.com/ShivamaniG/mlflow-agent-wrapper) | MLflow-powered agent router for centralized observability, prompt tracking & per-agent evaluation | Python · MLflow |
-| [**InsightBot**](https://github.com/ShivamaniG/InsightBot-AI) | Intelligent assistant using RAG + LLM for document upload, chat-based insight extraction | Python · RAG · LLM |
+| [**a2a-mcp-orchestrator**](https://github.com/ShivamaniG/a2a-mcp-orchestrator) | Python orchestrator for multi-agent workflows on Google's Agent2Agent (A2A) protocol with MCP-style tool integration | Python · A2A · MCP |
 
 ---
 
@@ -60,6 +61,12 @@ I'm a **Computer Science undergraduate at IIITDM Kurnool** who loves building in
 
 <details>
 <summary>Expand to see all projects</summary>
+
+**Agentic AI**
+- 🔹 [anp-demo](https://github.com/ShivamaniG/anp-demo) — Peer-to-peer Python agents discovering each other via Agent Network Protocol with JSON-RPC messaging
+- 🔹 [POC-AI-UI-Navigator](https://github.com/ShivamaniG/POC-AI-UI-Navigator) — Multimodal browser automation POC — Chrome extension + FastAPI + Gemini 2.0 Flash
+- 🔹 [mlflow-agent-wrapper](https://github.com/ShivamaniG/mlflow-agent-wrapper) — MLflow-powered agent router for centralized observability & per-agent evaluation
+- 🔹 [InsightBot](https://github.com/ShivamaniG/InsightBot-AI) — Intelligent assistant using RAG + LLM for document upload & chat-based insight extraction
 
 **AI & ML**
 - 🔹 [Dish Nutrition Analyzer](https://github.com/ShivamaniG/Vyb-AI-Assignment) — Flask + LLM pipeline for ingredient extraction & nutrition mapping
@@ -85,43 +92,6 @@ I'm a **Computer Science undergraduate at IIITDM Kurnool** who loves building in
 </details>
 
 ---
-
-### 🛠 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & DBs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**DevOps & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
