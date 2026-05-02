@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivamani%20Gangarapu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CS%20Undergrad%20%E2%80%94%20AI%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" />
+<img src="./header.svg" alt="Shivamani Gangarapu — CS Undergrad | AI & Backend Engineer" width="100%" />
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-I'm a **Computer Science undergraduate at IIITDM Kurnool** who loves building intelligent systems — from multi-agent AI pipelines and RAG-based tools to full-stack products. Currently deep into **agentic AI, LLMs, and backend engineering**.
+I'm an **AI Engineer at Antz AI**, CS graduate (Class of 2025) from IIITDM Kurnool. I build intelligent systems — from multi-agent AI pipelines and RAG-based tools to full-stack products. Currently deep into **agentic AI, LLMs, and backend engineering**.
 
 ---
 
@@ -91,9 +91,6 @@ I'm a **Computer Science undergraduate at IIITDM Kurnool** who loves building in
 
 </details>
 
----
-
----
 
 <div align="center">
 
